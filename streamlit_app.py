@@ -23,6 +23,10 @@ This machine learning application predicts estimated health insurance charges
 based on client information.
 
 The model was trained using Linear Regression.
+
+By: Gabriel Agana Anongwin
+Doctor of Pharmacy Class of 2026(KNUST)
+Data Science Student at ALX Ghana(Cohort 10)
 """)
 
 # ---------------- LOAD MODEL ----------------
@@ -134,10 +138,10 @@ st.markdown("""
 The model explains approximately **78%** of the variation in insurance costs.
 This indicates reasonably strong predictive performance.
 
-### MAE — Mean Absolute Error
+### MAE : Mean Absolute Error
 On average, predictions differ from actual insurance charges by about **$4,209**.
 
-### RMSE — Root Mean Squared Error
+### RMSE : Root Mean Squared Error
 Typical prediction error is around **$5,827**.
 This metric penalizes larger mistakes more heavily.
 
