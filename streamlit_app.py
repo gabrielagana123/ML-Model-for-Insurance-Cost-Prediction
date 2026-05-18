@@ -148,7 +148,7 @@ This metric penalizes larger mistakes more heavily.
 ### Why Negative Predictions Can Happen
 Linear Regression can sometimes predict negative values because the model uses a mathematical line equation.
 
-Your model has a negative intercept:
+The model has a negative intercept:
 
 ```python
 Intercept = -11908.61""")
