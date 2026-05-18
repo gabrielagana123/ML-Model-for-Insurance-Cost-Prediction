@@ -10,8 +10,7 @@ This project is presented as a **case study for GLICO Ghana**, demonstrating how
 ---
 
 ## 🚀 Live Demo
-If deployed on Streamlit Cloud:
-https://your-app-link-here.streamlit.app
+https://glicoinsurance.streamlit.app/
 
 ---
 
