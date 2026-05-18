@@ -24,9 +24,9 @@ based on client information.
 
 The model was trained using Linear Regression.
 
-By: Gabriel Agana Anongwin
-Doctor of Pharmacy Class of 2026(KNUST)
-Data Science Student at ALX Ghana(Cohort 10)
+By: Gabriel Agana Anongwin  
+Doctor of Pharmacy Class of 2026 (KNUST)  
+Data Science Student at ALX Ghana (Cohort 10)
 """)
 
 # ---------------- LOAD MODEL ----------------
